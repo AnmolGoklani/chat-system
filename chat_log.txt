@@ -1,0 +1,10 @@
+// this is a record of all chats
+[INFO] User connected: anmol
+anmol to anmol: hi
+[INFO] User disconnected: anmol
+[INFO] User connected: me
+me to me: hehe
+[INFO] User connected: you
+you to me: hiii
+[INFO] User disconnected: you
+[INFO] User disconnected: me
